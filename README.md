@@ -1,0 +1,2 @@
+# loadtest
+Example Goose loadtest
